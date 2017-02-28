@@ -1,5 +1,6 @@
 # Astrology
 This is an astrology app for bride-groom matching
+Presently the app is in Malayalam Language.
 
 
 A video showing the app demo is attached.
